@@ -1,0 +1,4 @@
+*.log
+*.pdf
+clavez.txt
+__pycache__/
